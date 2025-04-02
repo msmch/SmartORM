@@ -1,0 +1,8 @@
+openpyxl==3.1.2
+pandas==2.0.3
+numpy==1.24.4
+psycopg2-binary==2.9.9
+snowflake-snowpark-python[pandas]==1.12.1
+snowflake-connector-python==3.6.0
+SQLAlchemy==2.0.30
+snowflake-sqlalchemy==1.7.3
